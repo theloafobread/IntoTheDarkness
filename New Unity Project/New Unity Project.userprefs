@@ -1,12 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OptionsButton.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs">
     <Files>
-      <File FileName="Assets\Scripts\DisableOnPass.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Torch.cs" Line="18" Column="35" />
-      <File FileName="Assets\Scripts\PlayButton.cs" Line="7" Column="1" />
-      <File FileName="Assets\Scripts\QuitButton.cs" Line="5" Column="2" />
-      <File FileName="Assets\Scripts\OptionsButton.cs" Line="25" Column="34" />
+      <File FileName="..\..\..\PoolManagerDemo\Assets\PoolManagerScript.cs" Line="51" Column="3" />
+      <File FileName="..\..\..\PoolManagerDemo\Assets\ObjectScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="50" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
