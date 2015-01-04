@@ -17,9 +17,12 @@ public class Torch : MonoBehaviour {
 	void OnTriggerStay(Collider c){
 		if(c.gameObject.tag == "Player")
 		{
-			if(Input.GetKeyDown(KeyCode.E)){
-				flame.gameObject.SetActive(true);
-			}
+			transform.root.BroadcastMessage("TurnOff");
+			flame.SetActive(true);
 		}
+	}
+
+	void TurnOff(){
+		flame.SetActive (false);
 	}
 }
