@@ -14,8 +14,8 @@ public class Torch : MonoBehaviour {
 	void Update () {
 	}
 
-	void OnTriggerStay(Collider c){
-		if(c.gameObject.tag == "Player")
+	void OnTriggerEnter(Collider col){
+		if(col.gameObject.tag == "Player")
 		{
 			transform.root.BroadcastMessage("TurnOff");
 			flame.SetActive(true);

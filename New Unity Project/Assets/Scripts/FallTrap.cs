@@ -8,8 +8,6 @@ public class FallTrap : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		boxCol = GetComponent<BoxCollider> ();
-		boxCol.enabled = false;
 		rigBod = GetComponent<Rigidbody> ();
 		rigBod.useGravity = false;
 	}
