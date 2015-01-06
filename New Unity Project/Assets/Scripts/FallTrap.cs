@@ -21,4 +21,6 @@ public class FallTrap : MonoBehaviour {
 		rigBod.useGravity = true;
 
 	}
+
+
 }
