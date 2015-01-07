@@ -1,9 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\2dDimensionCrawler\Assets\Scripts\LevelSave.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EnemyScript.cs">
     <Files>
-      <File FileName="..\..\..\2dDimensionCrawler\Assets\Scripts\Portal.cs" Line="19" Column="35" />
-      <File FileName="..\..\..\2dDimensionCrawler\Assets\Scripts\LevelSave.cs" Line="20" Column="51" />
+      <File FileName="Assets\EnemyScript.cs" Line="73" Column="6" />
+      <File FileName="Assets\Scripts\FallTrap.cs" Line="15" Column="19" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="5" Column="30" />
+      <File FileName="Assets\textUIScript.cs" Line="23" Column="4" />
+      <File FileName="Assets\Scripts\Tripwire.cs" Line="17" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

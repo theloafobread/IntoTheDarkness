@@ -22,5 +22,12 @@ public class FallTrap : MonoBehaviour {
 
 	}
 
+	void OnTriggerEnter(Collider o)
+	{
+		if (o.name == "Player") 
+		{
+			Application.LoadLevel(Application.loadedLevel);
+		}
+	}
 
 }

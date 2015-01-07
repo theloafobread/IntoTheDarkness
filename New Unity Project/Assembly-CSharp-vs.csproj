@@ -46,18 +46,21 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\EnemyScript.cs" />
      <Compile Include="Assets\Scripts\DisableOnPass.cs" />
      <Compile Include="Assets\Scripts\FallTrap.cs" />
      <Compile Include="Assets\Scripts\OptionsButton.cs" />
      <Compile Include="Assets\Scripts\PlayButton.cs" />
+     <Compile Include="Assets\Scripts\PlayerScript.cs" />
      <Compile Include="Assets\Scripts\QuitButton.cs" />
      <Compile Include="Assets\Scripts\Torch.cs" />
      <Compile Include="Assets\Scripts\Tripwire.cs" />
+     <Compile Include="Assets\textUIScript.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\CynicatsAssets\Meshes\Materials\Shader\PBR.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/Theloafobread/Documents/GitHub/IntoTheDarkness/New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Jeremy/Documents/GitHub/IntoTheDarkness/New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>

@@ -14,7 +14,7 @@ public class Tripwire : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider col){
-		if(col.tag == "Player"){
+		if(col.name == "Player"){
 			transform.root.BroadcastMessage("Tripped");
 		}
 	}
