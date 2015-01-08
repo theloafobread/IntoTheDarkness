@@ -46,8 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\EnemyScript.cs" />
      <Compile Include="Assets\Scripts\DisableOnPass.cs" />
+     <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\EnemyScript.cs" />
      <Compile Include="Assets\Scripts\FallTrap.cs" />
      <Compile Include="Assets\Scripts\OptionsButton.cs" />
      <Compile Include="Assets\Scripts\PlayButton.cs" />
@@ -55,7 +56,7 @@
      <Compile Include="Assets\Scripts\QuitButton.cs" />
      <Compile Include="Assets\Scripts\Torch.cs" />
      <Compile Include="Assets\Scripts\Tripwire.cs" />
-     <Compile Include="Assets\textUIScript.cs" />
+     <Compile Include="Assets\Scripts\textUIScript.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\CynicatsAssets\Meshes\Materials\Shader\PBR.shader" />
